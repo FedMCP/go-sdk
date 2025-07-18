@@ -1,7 +1,7 @@
-module github.com/fedmcp/fedmcp/core/go
+module github.com/FedMCP/go-sdk
 
 go 1.21
 
 require (
-	github.com/google/uuid v1.5.0
+    github.com/google/uuid v1.3.0
 )
